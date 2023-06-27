@@ -1,8 +1,10 @@
-# online-store
-There are you can find all commands to run this project:
+# Online Store
 
-"npm install": for install required packages 
+## Deploy
+https://bondpv.github.io/online-store/#main
 
-"npm run start" : for start project in developer mode
+## Instructions 
 
-"npm run build" : for prepare application build
+- "npm install": for install required packages 
+- "npm run start" : for start project in developer mode
+- "npm run build" : for prepare application build
