@@ -1,0 +1,146 @@
+.product-details {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  padding: 20px 0;
+  gap: 30px;
+
+  &__header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 0;
+    border-bottom: 1px solid #ACACAC;
+
+    a {
+      color: #000000;
+      text-decoration: none;
+      transition: 0.3s;
+
+      &:hover {
+        text-decoration: underline #0156FF 2px;
+      }
+    }
+  }
+
+  &__bread-crumbs {
+    margin: 10px 0;
+  }
+
+  &__prices {
+    margin-left: auto;
+    font-size: 25px;
+  }
+
+  &__buttons {
+    display: flex;
+    margin-right: 0;
+  }
+
+  &__button {
+    color: #fff;
+    margin-left: 10px;
+    width: 151px;
+    height: 50px;
+    background: #0156FF;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+
+    &:hover {
+      background: #fff;
+      border: 2px solid #0156FF;
+      color: #0156FF;
+    }
+
+    &_remove {
+      background: #fff;
+      color: #0156FF;
+      border: 2px solid #0156FF;
+      line-height: 20px;
+      padding: 0;
+    }
+
+    &_buy {
+      background: #FFB800;
+
+      &:hover {
+        background: #fff;
+        border: 2px solid #FFB800;
+        color: #FFB800;
+      }
+    }
+  }
+
+  &__wrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  &__description {
+    background-color: #F5F7FF;
+    border-radius: 20px;
+    padding: 30px;
+  }
+
+  &__title {
+    font-weight: 500;
+    font-size: 32px;
+  }
+
+  &__rating {
+    margin-top: 20px;
+    display: flex;
+    font-size: 16px;
+    color: #ACACAC;
+    align-items: baseline;
+
+    .rating-star {
+      font-size: 16px;
+      color: #E9A426;
+    }
+
+    .product__rating-text {
+      margin-left: 10px;
+    }
+  }
+
+  &__article {
+    font-size: 20px;
+    margin: 10px 0;
+
+    span {
+      font-weight: 500;
+    }
+  }
+
+  &__specification {
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 0;
+    margin-top: 10px;
+  }
+
+  &__specification-item {
+    font-weight: 300;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+
+  &__price {
+    font-size: 25px;
+
+    &_min {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      font-size: 20px;
+    }
+  }
+
+  &__notFound {
+    margin: 50px;
+  }
+}

@@ -1,0 +1,185 @@
+.body_active {
+  overflow: hidden;
+}
+
+.popup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40%;
+  border-radius: 20px;
+  border: 2px solid #0156FF;
+  -webkit-box-shadow: 1px 1px 10px 3px rgba(1, 86, 255, 0.2);
+  -moz-box-shadow: 1px 1px 10px 3px rgba(1, 86, 255, 0.2);
+  box-shadow: 1px 1px 10px 3px rgba(1, 86, 255, 0.2);
+  padding: 1%;
+  background: #F5F7FF;
+  position: fixed;
+  top: 10%;
+  left: 30%;
+  z-index: 3;
+
+  &__title {
+    font-size: 20px;
+    margin: 0;
+    padding: 20px 0 10px;
+    text-align: center;
+  }
+}
+
+.form {
+  width: 100%;
+  padding: 0 30px;
+  box-sizing: border-box;
+
+  &__item {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 0;
+    position: relative;
+  }
+
+  .item__wrap {
+    display: flex;
+    justify-content: space-around;
+
+    .form__item {
+      align-items: center;
+    }
+
+    .form__input {
+      width: 60%;
+    }
+  }
+
+  &__label {
+    padding-bottom: 5px;
+
+    &::after {
+      content: ' *';
+      color: #C94D3F;
+    }
+  }
+
+  &__input {
+    width: 100%;
+    height: 35px;
+    background: #FFFFFF;
+    border: 1px solid #0156FF;
+    border-radius: 10px;
+    padding-left: 15px;
+    font-weight: 100;
+    box-sizing: border-box;
+
+    &::placeholder {
+      font-size: 16px;
+    }
+
+    &::-webkit-outer-spin-button,
+    &::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+
+    &:invalid {
+      border-color: #C94D3F;
+    }
+
+    &:focus:invalid {
+      outline: none;
+    }
+
+    &_error {
+      width  : 100%;
+      padding: 0;
+      border-radius: 0 0 5px 5px;
+    }
+
+    &_error_active {
+      padding: 0.3em;
+      font-size: 14px;
+      color: #C94D3F;
+      font-weight: 100;
+    }
+  }
+
+  &__button {
+    width: 100%;
+    border: 2px solid #0156FF;
+    border-radius: 20px;
+    color: #0156FF;
+    padding: 10px;
+    cursor: pointer;
+    background: transparent;
+    margin: 20px 0;
+
+    &:hover {
+      color: #FFFFFF;
+      background: #0156FF;
+      -webkit-box-shadow: 1px 1px 10px 3px rgba(1, 86, 255, 0.2);
+      -moz-box-shadow: 1px 1px 10px 3px rgba(1, 86, 255, 0.2);
+      box-shadow: 1px 1px 10px 3px rgba(1, 86, 255, 0.2);
+    }
+  }
+
+  .payment-icon {
+    display: block;
+    width: 40px;
+    height: 25px;
+    position: absolute;
+    top: 39px;
+    right: 10px;
+    background: url("../../../assets/icons/paypal.svg") no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    &_visa {
+      background: url("../../../assets/icons/visa.svg") no-repeat;
+      background-position: center;
+      background-size: cover;
+    }
+
+    &_maestro {
+      background: url("../../../assets/icons/maestro.svg") no-repeat;
+      background-position: center;
+      background-size: cover;
+    }
+  }
+}
+
+
+.popup__overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  cursor: pointer;
+}
+
+.popup_close {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+  height: 150px;
+  border-radius: 20px;
+  border: 2px solid #0156FF;
+  -webkit-box-shadow: 1px 1px 10px 3px rgba(1, 86, 255, 0.2);
+  -moz-box-shadow: 1px 1px 10px 3px rgba(1, 86, 255, 0.2);
+  box-shadow: 1px 1px 10px 3px rgba(1, 86, 255, 0.2);
+  padding: 50px 20px;
+  box-sizing: border-box;
+  background: #F5F7FF;
+  position: fixed;
+  top: 20%;
+  left: 30%;
+  z-index: 3;
+}
+

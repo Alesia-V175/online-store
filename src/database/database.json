@@ -1,0 +1,1007 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Xiaomi Redmi Note 11",
+      "titleDetail": "Xiaomi Redmi Note 11 LTE Dual-SIM EU Google Android Smartphone in gray with 128 GB storage",
+      "description": [
+        "Smartphone, Google Android 11.0",
+        "Display: 16.3 cm (6.44), 50 MP camera",
+        "CPU: 8x (4 x 2.40 GHz + 4x 1.80 GHz)",
+        "128 GB storage, microSD-Slot, Dual-Sim",
+        "LTE, Wi-Fi 5 (802.11ac), Bluetooth , NFC, GPS"
+      ],
+      "price": 167,
+      "discountPercentage": 5,
+      "rating": 4.8,
+      "stock": 45,
+      "brand": "Xiaomi",
+      "category": "Smartphones",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/9085983054729E0E568A49C8A1D925DF.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/9085983054729E0E568A49C8A1D925DF.jpg",
+        "https://img.computerunivers.net/images/1000/9085983086844B7814244449BF1E3905.jpg",
+        "https://img.computerunivers.net/images/1000/90859830A0224B912CF64C31B8743456.jpg",
+        "https://img.computerunivers.net/images/800/90859830BCD5E716215E44EBA41DF9F0.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Xiaomi 11T",
+      "titleDetail": "Xiaomi 11T 5G Dual-SIM EU Google Android Smartphone in black with 128 GB storage",
+      "description": [
+        "Smartphone, Google Android 11.0",
+        "Display: 16.9 cm (6.67), 108.0 MP camera",
+        "CPU: 8x (1x 3.00 GHz + 3x 2.60 GHz + 4x 2.00 GHz)",
+        "128 GB storage, Dual-Sim",
+        "5G, Wi-Fi 6 (802.11ax), Bluetooth , NFC, GPS"
+      ],
+      "price": 287,
+      "discountPercentage": 7,
+      "rating": 4.7,
+      "stock": 45,
+      "brand": "Xiaomi",
+      "category": "Smartphones",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90846425E92DBCCEA9674924B5C071C5.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90846425E92DBCCEA9674924B5C071C5.jpg",
+        "https://img.computerunivers.net/images/1000/90846425E5E9C3FA5CEC4A4699A506AF.jpg",
+        "https://img.computerunivers.net/images/800/908464255F18C59EFE934C099EA161AB.jpg",
+        "https://img.computerunivers.net/images/1000/908464254ED6357156844BCF880F31E0.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Xiaomi 12",
+      "titleDetail": "Xiaomi 12 5G Dual-Sim EU Google Android Smartphone in gray with 256 GB storage",
+      "description": [
+        "Smartphone, Google Android 12.0",
+        "Display: 16.0 cm (6.3), 50 MP camera",
+        "CPU: 8x (1x 3.00 GHz + 3x 2.50 GHz + 4x 1.80 GHz)",
+        "256 GB storage, Dual-Sim",
+        "5G, Wi-Fi 6 (802.11ax), Bluetooth , NFC, GPS"
+      ],
+      "price": 448,
+      "discountPercentage": 12,
+      "rating": 4.7,
+      "stock": 34,
+      "brand": "Xiaomi",
+      "category": "Smartphones",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90891701E3D23EEBF574408AAE3C412B.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90891701E3D23EEBF574408AAE3C412B.jpg",
+        "https://img.computerunivers.net/images/1000/90891701D9AFAFBCDDEC4C08A4C00134.jpg",
+        "https://img.computerunivers.net/images/1000/90891701752404D194914A8E82200B6B.jpg",
+        "https://img.computerunivers.net/images/1000/908917019F0C2D4F936B46A79D616AB3.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Samsung Galaxy A33",
+      "titleDetail": "Samsung Galaxy A33 A336B 5G Dual-Sim EU Google Android Smartphone in black with 128 GB storage",
+      "description": [
+        "Smartphone, Google Android 12.0",
+        "Display: 16.2 cm (6.4), 48 MP camera",
+        "CPU: 8x (2 x 2.40 GHz + 6x 2.00 GHz)",
+        "128 GB storage, microSD-Slot, Dual-Sim",
+        "5G, Wi-Fi 5 (802.11ac), Bluetooth , NFC, GPS"
+      ],
+      "price": 242,
+      "discountPercentage": 12,
+      "rating": 4.4,
+      "stock": 34,
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/908899125DEE7FCABEF84AA48BF2688F.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/908899125DEE7FCABEF84AA48BF2688F.jpg",
+        "https://img.computerunivers.net/images/1000/90889912FD12DC7BF2E941A58757978B.jpg",
+        "https://img.computerunivers.net/images/800/909018843A806E40F09A42A2BE1C5223.jpg",
+        "https://img.computerunivers.net/images/800/909018847523746C4FB4471C9D076D00.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Samsung Galaxy Z Flip4",
+      "titleDetail": "Samsung Galaxy Z Flip4 5G F721B EU Google Android Smartphone in blue with 128 GB storage",
+      "description": [
+        "Smartphone, Google Android 12.0",
+        "Display: 17.0 cm (6.7), 12.0 MP camera",
+        "CPU: 8x (1x 3.20 GHz + 3x 2.75 GHz + 4x 2.00 GHz)",
+        "128 GB storage, Dual-Sim",
+        "5G, Wi-Fi 6 (802.11ax), Bluetooth , NFC, GPS"
+      ],
+      "price": 699,
+      "discountPercentage": 4,
+      "rating": 4.9,
+      "stock": 12,
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/909155782C65A5478070457385966E5E.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/909155782C65A5478070457385966E5E.jpg",
+        "https://img.computerunivers.net/images/1000/90915578EABF3197F71E4F6492DD7AB4.jpg",
+        "https://img.computerunivers.net/images/1000/909155789D9C43EAFBD44FB8A3F3E8B3.jpg",
+        "https://img.computerunivers.net/images/1000/909155781F441BA6AC8347B9815826FE.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Samsung Galaxy S20 FE",
+      "titleDetail": "Samsung Galaxy S20 FE 5G G781 Google Android Smartphone in white with 128 GB storage",
+      "description": [
+        "Smartphone, Google Android 10.0",
+        "Display: 16.5 cm (6.5), 32.0 MP camera",
+        "CPU: 8x (1x 2.84 GHz + 3x 2.40 GHz + 4x 1.80 GHz)",
+        "128 GB storage, microSD-Slot, Dual-Sim",
+        "5G, Wi-Fi 6 (802.11ax), Bluetooth , NFC, GPS"
+      ],
+      "price": 348,
+      "discountPercentage": 25,
+      "rating": 4.6,
+      "stock": 25,
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90816371DE38544B402A4CF881F1EB6C.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90816371DE38544B402A4CF881F1EB6C.jpg",
+        "https://img.computerunivers.net/images/1000/908163710BB54A5FF42B4C87BDF4CC35.jpg",
+        "https://img.computerunivers.net/images/1000/9081637182A13C83BF5D455EB44E1206.jpg",
+        "https://img.computerunivers.net/images/1000/90816371F679649F8C174518B44547F3.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Apple iPhone 14 Plus",
+      "titleDetail": "Apple iPhone 14 Plus Apple iOS Smartphone in black with 128 GB storage",
+      "description": [
+        "Smartphone, Apple iOS 16",
+        "Display: 17.0 cm (6.7), 2x 12 MP camera",
+        "CPU: 6x (2x 3.20 GHz + 4x 2.0 GHz)",
+        "128 GB storage, Dual-Sim",
+        "5G, Wi-Fi 6 (802.11ax), Bluetooth , NFC, GPS"
+      ],
+      "price": 896,
+      "discountPercentage": 4,
+      "rating": 4.8,
+      "stock": 43,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90913402BA7DFFB8B68144898B021109.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90913402BA7DFFB8B68144898B021109.jpg",
+        "https://img.computerunivers.net/images/1000/90913402206E6E08856E44B29C795364.jpg",
+        "https://img.computerunivers.net/images/1000/909134022C4A73B5AC2C457D89461EB7.jpg",
+        "https://img.computerunivers.net/images/1000/9091340246EAEEE60C8B4731BA0FAC47.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Apple iPhone 14 Pro",
+      "titleDetail": "Apple iPhone 14 Pro Apple iOS Smartphone in lilac with 1 TB storage",
+      "description": [
+        "Smartphone, Apple iOS 16",
+        "Display: 15.5 cm (6.1), 48 MP camera",
+        "CPU: 6x (2x 3.46 GHz + 4x 2.02 GHz)",
+        "1 TB storage, Dual-Sim",
+        "5G, Wi-Fi 6 (802.11ax), Bluetooth , NFC, GPS"
+      ],
+      "price": 1721,
+      "discountPercentage": 6,
+      "rating": 5,
+      "stock": 45,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90913495D88BB620D1AE4CACB104DC49.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90913495D88BB620D1AE4CACB104DC49.jpg",
+        "https://img.computerunivers.net/images/1000/909134834AAA7FA123DE4A07A5FA79A9.jpg",
+        "https://img.computerunivers.net/images/1000/90913495AA093EDD127349CE820EF78F.jpg",
+        "https://img.computerunivers.net/images/1000/909134951ED5A9F624724FC0A44C2529.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Apple iPhone 13 mini",
+      "titleDetail": "Apple iPhone 13 mini MLK53ZD/A Apple iOS Smartphone in black with 256 GB storage",
+      "description": [
+        "Smartphone, Apple iOS 15",
+        "Display: 13.7 cm (5.4), 12.0 MP camera",
+        "CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)",
+        "256 GB storage, Dual-Sim",
+        "5G, Wi-Fi 6 (802.11ax), Bluetooth , NFC, GPS"
+      ],
+      "price": 769,
+      "discountPercentage": 12,
+      "rating": 4.7,
+      "stock": 12,
+      "brand": "Apple",
+      "category": "Smartphones",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/9084579825295C9CC50B487A919C3E74.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/600/9084579825295C9CC50B487A919C3E74.jpg",
+        "https://img.computerunivers.net/images/800/908458027B7F67E119EE4AA99BD1C3AC.jpg",
+        "https://img.computerunivers.net/images/800/908458031BDBEC12F5194A978B62CA75.jpg",
+        "https://img.computerunivers.net/images/1000/90845803EFB6E84C01B34144B4507F41.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Xiaomi 12 Pro",
+      "titleDetail": "Xiaomi 12 Pro 5G Dual-Sim EU Google Android Smartphone in blue with 256 GB storage",
+      "description": [
+        "Smartphone, Google Android 12.0",
+        "Display: 17.0 cm (6.7), 50 MP camera",
+        "CPU: 8x (1x 3.00 GHz + 3x 2.50 GHz + 4x 1.80 GHz)",
+        "256 GB storage, Dual-Sim",
+        "5G, Wi-Fi 6 (802.11ax), Bluetooth , NFC, GPS"
+      ],
+      "price": 677,
+      "discountPercentage": 5,
+      "rating": 4.8,
+      "stock": 35,
+      "brand": "Xiaomi",
+      "category": "Smartphones",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/908917056F935CE4403E489196F1F059.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/9080002588B1C4A7486B43E0B8B8F93B.jpg",
+        "https://img.computerunivers.net/images/1000/9080002538B31CF3CC50492890B42563.jpg",
+        "https://img.computerunivers.net/images/1000/908000251419C931BFB54B2BA8E3869B.jpg",
+        "https://img.computerunivers.net/images/1000/908185506B42A54900CB4029A4CB257D.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Apple MacBook Pro 14",
+      "titleDetail": "Apple MacBook Pro 14 MKGP3D/A M1 Pro/16/512 GB 8C CPU 14C GPU space grau",
+      "description": [
+        "36.1 cm (14.2) Notebook, macOS",
+        "Display: 3024 x 1964, 120Hz, Mini-LED, glare",
+        "Apple M1 Pro (8c) 8x",
+        "M1 Pro GPU (14C) Shared Memory",
+        "16 GB RAM, 512 GB SSD"
+      ],
+      "price": 1679,
+      "discountPercentage": 23,
+      "rating": 4.8,
+      "stock": 3,
+      "brand": "Apple",
+      "category":"Laptops",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/908484786D5EFCE0B518416FA79CB724.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/908484786D5EFCE0B518416FA79CB724.jpg",
+        "https://img.computerunivers.net/images/1000/9084847899621AF82060428692E402F0.jpg",
+        "https://img.computerunivers.net/images/1000/908484788A1625B835C24CC5AAB2F1DF.jpg",
+        "https://img.computerunivers.net/images/1000/90848478A9ECBE8CE67947A4AA5A80CE.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Apple MacBook Air 13,3",
+      "titleDetail": "Apple MacBook Air 13,3 M1 MGN63D/A (8 Core CPU/ 7 Core GPU) 8GB RAM 256GB SSD Grau",
+      "description": [
+        "33.8 cm (13.3) Notebook, macOS",
+        "Display: 2560 x 1600, IPS, glare",
+        "Apple M1 (8c) 8x 0.60 GHz",
+        "M1 GPU (7c) Shared Memory",
+        "8 GB RAM, 256 GB SSD"
+      ],
+      "price": 898,
+      "discountPercentage": 3,
+      "rating": 4.6,
+      "stock": 12,
+      "brand": "Apple",
+      "category": "Laptops",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90820422E1DB1123ED6D41B69881F99B.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90820419D67D4506F8E04B1E90D8D0B4.jpg",
+        "https://img.computerunivers.net/images/1000/90820419BAAC830F8D344E08A009BA9B.jpg",
+        "https://img.computerunivers.net/images/1000/908204195263FDAF106D44C9A7277AD7.jpg",
+        "https://img.computerunivers.net/images/700/908204222E866F70827D45A7887E0DC1.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Apple MacBook Pro 16",
+      "titleDetail": "Apple MacBook Pro 16 MK1H3D/A-Z150001 M1 Max/64/1 TB 10C CPU 32C GPU Silber",
+      "description": [
+        "41.2 cm (16.2) Notebook, macOS",
+        "Display: 3456 x 2234, 120Hz, Mini-LED, glare",
+        "Apple M1 Max (10c) 10x",
+        "M1 Max GPU (32C) Shared Memory",
+        "64 GB RAM, 1 TB SSD"
+      ],
+      "price": 2217,
+      "discountPercentage": 12,
+      "rating": 4.8,
+      "stock": 6,
+      "brand": "Apple",
+      "category": "Laptops",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/908516581B9C3DF8899E4551A2459980.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/600/908516581B9C3DF8899E4551A2459980.jpg",
+        "https://img.computerunivers.net/images/600/90851658B5D674F4ABA74B9C966FCC37.jpg",
+        "https://img.computerunivers.net/images/400/9085165837DD693CBE1C44EE856ED109.jpg",
+        "https://img.computerunivers.net/images/1000/908484853A4BF633B313432FA40D6FF9.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Lenovo IdeaPad Gaming 3i",
+      "titleDetail": "Lenovo IdeaPad Gaming 3i 15IHU6 82K100QHGE",
+      "description": [
+        "39.6 cm (15.6) Notebook, Windows 11 Home",
+        "Display: 1920 x 1080, IPS, non-glare",
+        "Intel Core™ i5-11300H 4x 3.10 GHz",
+        "NVIDIA® GeForce® RTX 3050 4.0 GB",
+        "16 GB RAM, 512 GB SSD"
+      ],
+      "price": 797,
+      "discountPercentage": 6,
+      "rating": 4.5,
+      "stock": 23,
+      "brand": "Lenovo",
+      "category": "Laptops",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/908598565E56B3A998A5478FA62C2B2A.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/700/908598565E56B3A998A5478FA62C2B2A.jpg",
+        "https://img.computerunivers.net/images/700/90859856CBBBD1B20D68430AABB11048.jpg",
+        "https://img.computerunivers.net/images/700/908598564BAA9F1E1938416DA339887B.jpg",
+        "https://img.computerunivers.net/images/800/90859856C05C2BAB06944CDCA4E61B9B.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "ASUS TUF Gaming A17",
+      "titleDetail": "ASUS TUF Gaming A17 FA707RR-HX018W W11H 43.9 cm (17.3) Windows 11 Home",
+      "description": [
+        "43.9 cm (17.3) Notebook, Windows 11 Home",
+        "Display: 1920 x 1080, 144Hz, IPS",
+        "AMD Ryzen™ 7 6800H 8x 3.20 GHz",
+        "NVIDIA® GeForce® RTX 3070 8.0 GB",
+        "16 GB RAM, 1 TB SSD"
+      ],
+      "price": 1259,
+      "discountPercentage": 5,
+      "rating": 4.7,
+      "stock": 23,
+      "brand": "ASUS",
+      "category": "Laptops",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90912166FBDF4BF01074449D8A3C2F81.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/900/90912166FBDF4BF01074449D8A3C2F81.jpg",
+        "https://img.computerunivers.net/images/900/909121660E4A16E4C24D47659A2BE11D.jpg",
+        "https://img.computerunivers.net/images/900/909121661AE534BA30D1498CB4147743.jpg",
+        "https://img.computerunivers.net/images/800/90912166C46E5A9A098D47D7A3707F7F.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "ASUS VivoBook 14",
+      "titleDetail": "ASUS VivoBook 14 F415JA-EB1406T 14 FHD i5-1035G1 Intel UHD Graphics 8GB RAM 512GB SSD W10H",
+      "description": [
+        "35.6 cm (14.0) Notebook, Windows 10 Home",
+        "Display: 1920 x 1080, IPS, non-glare",
+        "Intel Core™ i5-1035G1 4x 1.20 GHz",
+        "Intel® UHD Graphics Shared Memory",
+        "8 GB RAM, 512 GB SSD"
+      ],
+      "price": 335,
+      "discountPercentage": 7,
+      "rating": 4.5,
+      "stock": 12,
+      "brand": "ASUS",
+      "category": "Laptops",
+      "thumbnail": "https://img.computerunivers.net/images/240x240/908412414EC99D8EF1CA487FBD34A7DF.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/900/908412414EC99D8EF1CA487FBD34A7DF.jpg",
+        "https://img.computerunivers.net/images/800/90841241FB04EB32959E4D5E91E49638.jpg",
+        "https://img.computerunivers.net/images/900/9084124168D58243FEA94801A0254732.jpg",
+        "https://img.computerunivers.net/images/900/908412415A2F659B410049A2B75BF8D6.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Lenovo IdeaPad 3 14ITL",
+      "titleDetail": "Lenovo IdeaPad 3 14ITL 82H700TQGE 6305 4GB/128GB SSD 14 FHD W11S",
+      "description": [
+        "35.6 cm (14.0) Notebook, Windows 11S",
+        "Display: 1920 x 1080, IPS, non-glare",
+        "Intel Celeron® 6305 2x 1.80 GHz",
+        "Intel® UHD Graphics Shared Memory",
+        "4 GB RAM, 128 GB SSD"
+      ],
+      "price": 284,
+      "discountPercentage": 3,
+      "rating": 4.5,
+      "stock": 23,
+      "brand": "Lenovo",
+      "category": "Laptops",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/908953183E3AE0E2EEBC4484AC8F1994.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/900/908953183E3AE0E2EEBC4484AC8F1994.jpg",
+        "https://img.computerunivers.net/images/900/908953188100A1AFDC184015BDA15880.jpg",
+        "https://img.computerunivers.net/images/700/90895318E54F3046B5DA45EFB25EB812.jpg",
+        "https://img.computerunivers.net/images/700/90895318D1000CA58B7742FF856A6AD0.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "ASUS TUF FA507RR",
+      "titleDetail": "ASUS TUF FA507RR-HQ007W R7-6800H 16GB/1TB SSD RTX3070 15 WQHD W11",
+      "description": [
+        "39.6 cm (15.6) Notebook, Windows 11 Home",
+        "Display: 2560 x 1440, 165Hz, FreeSync, IPS, non-glare",
+        "AMD Ryzen™ 7 6800H 8x 3.20 GHz",
+        "NVIDIA® GeForce® RTX 3070 8.0 GB",
+        "16 GB RAM, 1 TB SSD"
+      ],
+      "price": 1259,
+      "discountPercentage": 5,
+      "rating": 4.6,
+      "stock": 5,
+      "brand": "ASUS",
+      "category": "Laptops",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/908949503D4096D8D4E147CEA8C7EEAF.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/700/908949503D4096D8D4E147CEA8C7EEAF.jpg",
+        "https://img.computerunivers.net/images/700/908949505D606F2D177647BCA03ADFE9.jpg",
+        "https://img.computerunivers.net/images/700/90894950D7FF4A3251C3458F8E2B45F8.jpg",
+        "https://img.computerunivers.net/images/700/90894950D80F18B3FDC54E62BDB60F12.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "GIGABYTE G5",
+      "titleDetail": "GIGABYTE G5 GD-51DE123SD 15.6 FHD i5-11400H RTX3050 16GB RAM 512GB SSD DOS",
+      "description": [
+        "39.6 cm (15.6) Notebook",
+        "Display: 1920 x 1080, 144Hz, IPS, non-glare",
+        "Intel Core™ i5-11400H 6x 2.70 GHz",
+        "NVIDIA® GeForce® RTX 3050 (60W TGP), 4GB",
+        "16 GB RAM, 512 GB SSD"
+      ],
+      "price": 629,
+      "discountPercentage": 3,
+      "rating": 4.5,
+      "stock": 28,
+      "brand": "GIGABYTE",
+      "category": "Laptops",
+      "thumbnail": "https://img.computerunivers.net/images/240x240/9084821763BA8FF255EF48098EAF39FF.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/9084821763BA8FF255EF48098EAF39FF.jpg",
+        "https://img.computerunivers.net/images/1000/90848217C287022974744BE380677AFD.jpg",
+        "https://img.computerunivers.net/images/1000/908482179EAA709970654E4AAAB65D74.jpg",
+        "https://img.computerunivers.net/images/700/9084821729CCD10B20C94DF9A3246BB2.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "GIGABYTE AERO 15",
+      "titleDetail": "GIGABYTE AERO 15 OLED KC-8DE5130SP 15,6 UHD OLED i7-10870H RTX3060P 16GB RAM 512GB SSD W10P",
+      "description": [
+        "39.6 cm (15.6) Notebook, Windows 10 Pro",
+        "Display: 3840 x 2400, HDR, OLED, glare",
+        "Intel Core™ i7-10870H 8x 2.20 GHz",
+        "NVIDIA® GeForce® RTX 3060 6.0 GB",
+        "16 GB RAM, 512 GB SSD"
+      ],
+      "price": 1427,
+      "discountPercentage": 5,
+      "rating": 4.3,
+      "stock": 4,
+      "brand": "GIGABYTE",
+      "category": "Laptops",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/9082541309F323CECB3D417689C74C29.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/900/9082541309F323CECB3D417689C74C29.jpg",
+        "https://img.computerunivers.net/images/800/908254136CD2C178CC9A4E7387C9EC9D.jpg",
+        "https://img.computerunivers.net/images/1000/90825413D9BD1031B66F43FD80AEF716.jpg",
+        "https://img.computerunivers.net/images/1000/90825413A19DA763274A42A9A803954F.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Apple iPad 10.2",
+      "titleDetail": "Apple iPad 10.2 WiFi MK2L3FD/A (2021), 64GB, iPadOS, silber",
+      "description": [
+        "Tablet mit Apple iOS",
+        "25.9 cm (10.2) 2160 x 1620, Retina Display",
+        "Apple A13 Bionic 6x 2 x 2.65 GHz + 4 x 1.59 GHz, 3GB RAM, 64 GB Flash",
+        "Wi-Fi 6 (802.11ax), Bluetooth 5.0",
+        "Fingerprint scanner"
+      ],
+      "price": 335,
+      "discountPercentage": 5,
+      "rating": 4.8,
+      "stock": 50,
+      "brand": "Apple",
+      "category": "Tablets",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90845773EF65DB2110C249578CCD62D3.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/800/90845773EF65DB2110C249578CCD62D3.jpg",
+        "https://img.computerunivers.net/images/1000/90845773C198B88751074784AA28E000.jpg",
+        "https://img.computerunivers.net/images/800/90845773F66E07603337426998620D82.jpg",
+        "https://img.computerunivers.net/images/1000/90845773095D4ED641D24C848DB88074.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Apple iPad Pro 11",
+      "titleDetail": "Apple iPad Pro 11 WiFi + Cellular MHWC3FD/A 1TB, iOS, spacegrau",
+      "description": [
+        "Tablet mit Apple iOS",
+        "27.9 cm (11.0) 2388 x 1668, Retina Display",
+        "Apple M1 8x 0.60 GHz, 16 GB RAM, 1.0 TB SSD",
+        "1x Thunderbolt 4",
+        "5G, Wi-Fi 6 (802.11ax), Bluetooth 5.0, GPS"
+      ],
+      "price": 1491,
+      "discountPercentage": 3,
+      "rating": 4.8,
+      "stock": 48,
+      "brand": "Apple",
+      "category": "Tablets",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90831057C3C07A33AAB5498099CD57DA.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/900/90831057C3C07A33AAB5498099CD57DA.jpg",
+        "https://img.computerunivers.net/images/400/90831063791A74F4743A4F23A1AA97D2.jpg",
+        "https://img.computerunivers.net/images/400/9083106305493D9B03C54123A671675A.jpg",
+        "https://img.computerunivers.net/images/1000/90831063F5DEB87760164150AB8D950D.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Apple iPad Air",
+      "titleDetail": "Apple iPad Air WiFi (2022 / 5th Gen), 256GB, space grey",
+      "description": [
+        "Tablet mit Apple iOS",
+        "27.69 cm (10.9) 2360 x 1640, Retina Display",
+        "Apple M1 8x 0.60 GHz, 8 GB RAM, 256 GB Flash",
+        "Wi-Fi 6 (802.11ax), Bluetooth 5.0",
+        "Touch ID, Apple Pencil compatible (sold separatly)"
+      ],
+      "price": 772,
+      "discountPercentage": 9,
+      "rating": 4.9,
+      "stock": 40,
+      "brand": "Apple",
+      "category": "Tablets",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90860694236F8BAC032D44B7AACF340A.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90860694236F8BAC032D44B7AACF340A.jpg",
+        "https://img.computerunivers.net/images/1000/9086069493D7BF7413D344698C0F5BD5.jpg",
+        "https://img.computerunivers.net/images/1000/9086069436CB9FF442494990AB1144B5.jpg",
+        "https://img.computerunivers.net/images/1000/90860694E8961DA31B2E44A8820AB1FA.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Lenovo Tab P11 Pro",
+      "titleDetail": "Lenovo Tab P11 Pro G2 TB-132FU WiFi ZAB50043SE 8/256GB, Android, grau Lenovo",
+      "description": [
+        "Tablet mit Google Android",
+        "28.4 cm (11.2) 2560 x 1536, OLED Display",
+        "Mediatek Kompanio 1300T 8x 4x 2.60 GHz + 4x 2.00 GHz, 8 GB RAM, 256 GB Flash",
+        "1x USB 3.1 Gen1 Typ C",
+        "Wi-Fi 6 (802.11ax), Bluetooth 5.1, microSDXC-Slo"
+      ],
+      "price": 419,
+      "discountPercentage": 3,
+      "rating": 4.8,
+      "stock": 34,
+      "brand": "Lenovo",
+      "category": "Tablets",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/9091424924A2F231A1BF40279F0ADB6C.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/9091424924A2F231A1BF40279F0ADB6C.jpg",
+        "https://img.computerunivers.net/images/600/90914249A8CAE3BE966D40C9901B152B.jpg",
+        "https://img.computerunivers.net/images/1000/90914249C419742F550943B68C7A24B3.jpg",
+        "https://img.computerunivers.net/images/1000/90914249BCB55A3462734A0F87F49AD8.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Samsung Galaxy Tab S8",
+      "titleDetail": "Samsung Galaxy Tab S8 WiFi X700N EU 128GB, Android, graphite",
+      "description": [
+        "Tablet mit Google Android",
+        "27.9 cm (11.0) 2560 x 1600, AMOLED Display",
+        "Qualcomm Snapdragon 8 Gen 1 8x 1x 3.00 GHz + 3x 2.50 GHz + 4x 1.80 GHz, 8 GB RAM, 128 GB Flash",
+        "Wi-Fi 6E (802.11ax), Bluetooth 5.2, GPS, microSDXC-Slot",
+        "incl. Stylus, Fingerprint scanner, 120 Hz Display"
+      ],
+      "price": 529,
+      "discountPercentage": 4,
+      "rating": 4.8,
+      "stock": 43,
+      "brand": "Samsung",
+      "category": "Tablets",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90858804F69280126634433D9FA48878.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90858804F69280126634433D9FA48878.jpg",
+        "https://img.computerunivers.net/images/1000/90858804819E2BBB932340CA96895B63.jpg",
+        "https://img.computerunivers.net/images/1000/90895060841AD40DE86E404FAC892B79.jpg",
+        "https://img.computerunivers.net/images/800/90895060FEE37CC1437C4F7F809207C6.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Lenovo Tab M8",
+      "titleDetail": "Lenovo Tab M8 TB-8505X ZA5H0064SE LTE 32GB Android 9.0 iron grey",
+      "description": [
+        "Tablet mit Google Android",
+        "20.3 cm (8.0) 1280 x 800, TFT Display",
+        "Mediatek 4x 2.00 GHz, 2 GB RAM, 32 GB Flash",
+        "LTE, Wi-Fi 5 (802.11ac), Bluetooth 5.0",
+        "GPS, microSD-Slot"
+      ],
+      "price": 125,
+      "discountPercentage": 10,
+      "rating": 4.5,
+      "stock": 50,
+      "brand": "Lenovo",
+      "category": "Tablets",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90788746E4140147217F43D5B14CADDD.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/500/90788746E4140147217F43D5B14CADDD.jpg",
+        "https://img.computerunivers.net/images/500/907887460CFEAC421471466CAB53E08B.jpg",
+        "https://img.computerunivers.net/images/500/90788746B45735154D064591B8FE7CFD.jpg",
+        "https://img.computerunivers.net/images/500/9078874681440FFDE1254858AB1F5CAE.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Samsung Galaxy Tab S8 Ultra",
+      "titleDetail": "Samsung Galaxy Tab S8 Ultra 5G X906B EU 128GB, Android, graphite",
+      "description": [
+        "Tablet mit Google Android",
+        "37.0 cm (14.6) 2960 x 1848, AMOLED Display",
+        "Qualcomm Snapdragon 8 Gen 1 8x 1x 3.00 GHz + 3x 2.50 GHz + 4x 1.80 GHz, 8 GB RAM, 128 GB Flash",
+        "5G, Wi-Fi 6E (802.11ax), Bluetooth 5.2, GPS, microSDXC-Slot",
+        "incl. Stylus, Fingerprint scanner, 120 Hz Display"
+      ],
+      "price": 826,
+      "discountPercentage": 4,
+      "rating": 4.9,
+      "stock": 33,
+      "brand": "Samsung",
+      "category": "Tablets",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90858798F1BAE70F463E4C098D005708.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90858798F1BAE70F463E4C098D005708.jpg",
+        "https://img.computerunivers.net/images/1000/908587983E2A435149064A34A12EC5CA.jpg",
+        "https://img.computerunivers.net/images/800/909070779FF9E77480CD4CA2AA210FD9.jpg",
+        "https://img.computerunivers.net/images/800/90907077B47D58C324E640C1B29FCC39.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Sony Playstation 5",
+      "titleDetail": "Sony Playstation 5 inkl.12 Monate Playstation Plus Laufwerk, 825Gb SSD",
+      "description": [
+        "Next wave of invites will be sent on 12/30/2022 to qualifying customers. While supplies last",
+        "Model Number CFI-1215A01X",
+        "Stunning Games - Marvel at incredible graphics and experience new PS5 features.",
+        "Breathtaking Immersion - Discover a deeper gaming experience with support for haptic feedback, adaptive triggers, and 3D Audio technology.",
+        "Lightning Speed - Harness the power of a custom CPU, GPU, and SSD with Integrated I/O that rewrite the rules of what a PlayStation console can do."
+      ],
+      "price": 504,
+      "discountPercentage": 5,
+      "rating": 4.9,
+      "stock": 10,
+      "brand": "Sony",
+      "category": "Consoles",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90828076CDF5CB6FB4C745AF8CA75666.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/9081572744A4D6DC152C462691DF6BBE.jpg",
+        "https://img.computerunivers.net/images/1000/908157275B707AC13D234B389494081E.jpg",
+        "https://img.computerunivers.net/images/1000/90828076CDF5CB6FB4C745AF8CA75666.jpg",
+        "https://img.computerunivers.net/images/1000/90815727A3C65870E57643A58324E869.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Microsoft XBox S",
+      "titleDetail": "Microsoft XBox Series S Digital Edition 512GB",
+      "description": [
+        "Go all digital with Xbox Series S and experience next-gen speed and performance at a great price.",
+        "Bundle includes: Xbox Series S console, one Xbox Wireless Controller, a high-speed HDMI cable, power cable",
+        "Make the most of every gaming minute with Quick Resume, lightning-fast load times, and gameplay of up to 120 FPS",
+        "Enjoy digital games from four generations of Xbox, with hundreds of optimized titles that look and play better than ever.",
+        "Add Xbox Game Pass Ultimate (membership sold separately) to play new games day one. "
+      ],
+      "price": 251,
+      "discountPercentage": 5,
+      "rating": 4.3,
+      "stock": 20,
+      "brand": "Microsoft",
+      "category": "Consoles",
+      "thumbnail": "https://img.computerunivers.net/images/240x240/90815726FE10D5CBD7B1492E915E34CF.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/800/90815726FE10D5CBD7B1492E915E34CF.jpg",
+        "https://img.computerunivers.net/images/800/9081572679379D7D6E674E8E9B106FF0.jpg",
+        "https://img.computerunivers.net/images/1000/9081572692BA04174D594180AB2E2864.jpg",
+        "https://img.computerunivers.net/images/1000/90815726BABBEA1BD0524373AEA883D5.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Microsoft XBox X",
+      "titleDetail": "Microsoft Xbox Series X 1TB SSD Gaming Console - 8K HDR, 4K UHD Blu-Ray",
+      "description": [
+        "Introducing Xbox Series X, the fastest, most powerful Xbox ever.",
+        "Experience next-gen speed and performance with the Xbox velocity architecture, powered by a custom SSD and integrated software.",
+        "Play thousands of games from 4 generations of Xbox with Backward compatibility, including optimized titles at launch.",
+        "Xbox Smart delivery ensures you play the best available version of your game no matter which Console you're playing on.",
+        "Color Black"
+      ],
+      "price": 466,
+      "discountPercentage": 3,
+      "rating": 4.7,
+      "stock": 12,
+      "brand": "Microsoft",
+      "category": "Consoles",
+      "thumbnail": "https://img.computerunivers.net/images/240x240/908157242B82D2D911EB48B2B611E33E.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/908157242B82D2D911EB48B2B611E33E.jpg",
+        "https://img.computerunivers.net/images/600/908157248939FC32B2B34B018550B31F.jpg",
+        "https://img.computerunivers.net/images/1000/908157241501FF7F43A844EB909F22FF.jpg",
+        "https://img.computerunivers.net/images/1000/908157249A08795787994508AE032423.jpg"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Sony PlayStation 5 DE",
+      "titleDetail": "Sony PlayStation 5 Digital Edition 825GB SSD",
+      "description": [
+        "Next wave of invites will be sent on 12/30/2022 to qualifying customers. While supplies last",
+        "Model Number CFI-1215B01X",
+        "Stunning Games - Marvel at incredible graphics and experience new PS5 features.",
+        "Breathtaking Immersion - Discover a deeper gaming experience with support for haptic feedback, adaptive triggers, and 3D Audio technology.",
+        "Lightning Speed - Harness the power of a custom CPU, GPU, and SSD with Integrated I/O that rewrite the rules of what a PlayStation console can do."
+      ],
+      "price": 385,
+      "discountPercentage": 5,
+      "rating": 4.7,
+      "stock": 22,
+      "brand": "Sony",
+      "category": "Consoles",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/908157288186ECCEB5504726BFC45B96.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/908157288186ECCEB5504726BFC45B96.jpg",
+        "https://img.computerunivers.net/images/1000/908157286780226CA9E34F5B83E89682.jpg",
+        "https://img.computerunivers.net/images/1000/90815728B45D75D8DD9947318BA67391.jpg",
+        "https://img.computerunivers.net/images/1000/9081572887C34602826E4CBAA61E0BE1.jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Nintendo Switch",
+      "titleDetail": "Nintendo Switch (OLED-Modell) weiss",
+      "description": [
+        "7-inch OLED screen - Enjoy vivid colors and crisp contrast with a screen that makes colors pop",
+        "Wired LAN port - Use the docks LAN port when playing in TV mode for a wired internet connection",
+        "64 GB internal storage - Save games to your system with 64 GB of internal storage",
+        "Enhanced audio – Enjoy enhanced sound from the systems onboard speakers when playing in Handheld and Tabletop modes.",
+        "Nintendo Switch – OLED Model supports all Joy-Con controllers and Nintendo Switch software"
+      ],
+      "price": 311,
+      "discountPercentage": 5,
+      "rating": 4.8,
+      "stock": 5,
+      "brand": "Nintendo",
+      "category": "Consoles",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/90836645D2E898D223DF443683DD2D3D.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90836645D2E898D223DF443683DD2D3D.jpg",
+        "https://img.computerunivers.net/images/1000/90836645DF8AF95084E4443FBEF6D78C.jpg",
+        "https://img.computerunivers.net/images/1000/908366451FB7527BE4DB4F868B3419E1.jpg",
+        "https://img.computerunivers.net/images/1000/9083664544440888B6344D7983A7BDC0.jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Samsung GQ55S95BATXZG",
+      "titleDetail": "Samsung OLED GQ55S95BATXZG 138 cm (55) 4K / UHD",
+      "description": [
+        "138 cm (55) OLED HDR10+ Smart TV (Tizen)",
+        "Resolution 3840 x 2160, 100 Hz Hz",
+        "Tuner: DVB-C, S, S2, T2 (HD)",
+        "2x USB, CI+ Slot, LAN, WiFi integrated",
+        "Bluetooth, Google Assistant"
+      ],
+      "price": 1217,
+      "discountPercentage": 24,
+      "rating": 5,
+      "stock": 15,
+      "brand": "Samsung",
+      "category": "TV",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/9089468274ACEDEB5E5948B884553CA3.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/500/9089468274ACEDEB5E5948B884553CA3.jpg",
+        "https://img.computerunivers.net/images/600/90894682B054BA80D41940D19D89C0FC.jpg",
+        "https://img.computerunivers.net/images/800/908946820569C5ED641942748A42C6C1.jpg",
+        "https://img.computerunivers.net/images/500/90894682BCF035A8DE294029B2639DF1.jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Samsung GU43AU7179UXZG",
+      "titleDetail": "Samsung GU43AU7179UXZG 109 cm (43) 4K / UHD",
+      "description": [
+        "109 cm (43) LED HDR10+ Smart TV (Tizen)",
+        "Resolution 3840 x 2160, 2000 PQI",
+        "Tuner: DVB-C, S2, T2 (HD)",
+        "1x USB, CI+ Slot, LAN, WiFi integrated",
+        "3x HDMI"
+      ],
+      "price": 326,
+      "discountPercentage": 4,
+      "rating": 4.8,
+      "stock": 20,
+      "brand": "Samsung",
+      "category": "TV",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/908315588376E2833523466EB0A7A535.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/908315588376E2833523466EB0A7A535.jpg",
+        "https://img.computerunivers.net/images/1000/90831558A08C652983C245C2A1E1B737.jpg",
+        "https://img.computerunivers.net/images/1000/90831558BEB5CDFD4255438F938D6887.jpg",
+        "https://img.computerunivers.net/images/1000/908315585E873DBAF08646BBA356BBBD.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "LG OLED65CS9LA",
+      "titleDetail": "LG OLED65CS9LA 165 cm (65) 4K / UHD",
+      "description": [
+        "165 cm (65) OLED HDR10 Pro Smart TV (Web OS)",
+        "Resolution 3840 x 2160, 120 Hz",
+        "3D Tuner: DVB-C, S2, T2 (HD)",
+        "3x USB, CI+ Slot, LAN, WiFi integrated",
+        "PVR / Time-Shift, Bluetooth"
+      ],
+      "price": 1511,
+      "discountPercentage": 5,
+      "rating": 4.7,
+      "stock": 14,
+      "brand": "LG",
+      "category": "TV",
+      "thumbnail": "https://img.computerunivers.net/images/250x250/908608460BF2B2C06FCF46F2940DD3F6.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/908608460BF2B2C06FCF46F2940DD3F6.jpg",
+        "https://img.computerunivers.net/images/1000/908608466DF2C59E166A47F2BEDD419D.jpg",
+        "https://img.computerunivers.net/images/1000/9086084691937DE0DF8443E5BF2091A4.jpg",
+        "https://img.computerunivers.net/images/1000/9086084695936E319DDE47BD9C3E08CE.jpg"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "LG 65NANO759PR",
+      "titleDetail": "LG 65NANO759PR 165 cm (65) 4K / UHD",
+      "description": [
+        "165 cm (65) NanoCell HDR10 Pro Smart TV (Web OS)",
+        "Resolution 3840 x 2160, 60 Hz Hz",
+        "Tuner: DVB-C, S2, T2 (HD)",
+        "2x USB, CI+ Slot, LAN, WiFi integrated",
+        "PVR / Time-Shift, Bluetooth, Miracast, Google"
+      ],
+      "price": 671,
+      "discountPercentage": 12,
+      "rating": 4.7,
+      "stock": 15,
+      "brand": "LG",
+      "category": "TV",
+      "thumbnail": "https://img.computerunivers.net/images/240x240/90844855E7FAF97BC7BC4034A20CD54E.jpg",
+      "images": [
+        "https://img.computerunivers.net/images/1000/90844855E7FAF97BC7BC4034A20CD54E.jpg",
+        "https://img.computerunivers.net/images/1000/90844855624147B03CDA4321BFD49AA7.jpg",
+        "https://img.computerunivers.net/images/1000/90844855C4B464160C4B47A9A3651794.jpg",
+        "https://img.computerunivers.net/images/700/90844855749D047B5E634C87BBAFE571.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Sony 65 X85K",
+      "titleDetail": "Sony 65 Inch 4K Ultra HD TV X85K Series: LED Smart Google TV with Dolby Vision HDR and Native 120HZ Refresh Rate KD65X85K- 2022 ModelwithSony HT-A3000",
+      "description": [
+        "The 4K HDR Processor X1 delivers a picture that is smooth and clear, full of rich colors and detailed contrast.",
+        "See blur-free picture quality in fast-moving sports and action-packed movies with native 120Hz refresh rate and Motionflow XR technology.",
+        "Get the full effect of Dolby Atmos and DTS:X with Sonys Vertical Surround Engine, S-Force PRO Front Surround and 360 Spatial Sound Mapping",
+        "360 Spatial Sound that adapts to your environment available with optional rear speakers",
+        "Supported Internet Services Google TV"
+      ],
+      "price": 1396,
+      "discountPercentage": 5,
+      "rating": 4.8,
+      "stock": 5,
+      "brand": "Sony",
+      "category": "TV",
+      "thumbnail": "https://m.media-amazon.com/images/I/81uNVp-9taL._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81PBYPDRP9L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71ZpXhH3p0L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81toG7578aL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/71nyhG5udyL._AC_SX466_.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Sony OLED 55 A80K",
+      "titleDetail": "Sony OLED 55 inch BRAVIA XR A80K Series 4K Ultra HD TV: Smart Google TV with Dolby Vision HDR and Exclusive Features for The Playstation® 5 XR55A80K- 2022 ModelwithSony HT-A3000",
+      "description": [
+        "The Cognitive Processor XR understands how humans see the real world to deliver intense contrast with deep blacks, high peak brightness, and natural colors.",
+        "OLED CONTRAST – XR OLED Contrast Pro technology allows you to feel the beauty of OLED with immersive depth and realism, pure black, and lifelike brightness.",
+        "Get the full effect of Dolby Atmos and DTS:X with Sony’s Vertical Surround Engine, S-Force PRO Front Surround and 360 Spatial Sound Mapping",
+        "360 Spatial Sound that adapts to your environment available with optional rear speakers",
+        "Supported Internet Services Google TV"
+      ],
+      "price": 1796,
+      "discountPercentage": 8,
+      "rating": 4.5,
+      "stock": 34,
+      "brand": "Sony",
+      "category": "TV",
+      "thumbnail": "https://m.media-amazon.com/images/I/81U4zRfwsfL._AC_UY327_FMwebp_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/81U4zRfwsfL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81dp9ry1mNL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81mT5NDJhbL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/81IRzeKX2lL._AC_SX466_.jpg"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Sony 32 W830K",
+      "titleDetail": "Sony 32 Inch 720p HD LED HDR TV W830K Series with Google TV and Google Assistant-2022 Model",
+      "description": [
+        "HD PICTURE QUALITY - Enjoy TV in crystal-clear 720p HD resolution",
+        "See natural and precise picture quality with a wide array of colors and High Dynamic Range (HDR) contrast.",
+        "Discover picture quality full of rich, real-world detail and texture with reduced noise, powered by X-Reality PRO.",
+        "Google TV with Google Assistant organizes your favorite content all in one place.",
+        "Through an Alexa enabled device, ask Alexa to change channels, adjust volume, and turn your TV on/off."
+      ],
+      "price": 368,
+      "discountPercentage": 5,
+      "rating": 4.4,
+      "stock": 37,
+      "brand": "Sony",
+      "category": "TV",
+      "thumbnail": "https://m.media-amazon.com/images/I/71GUJVSDv3L._AC_UY327_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/71GUJVSDv3L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/51SALdXSymL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/6173RcXrRiL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61ek2Myz8PL._AC_SX466_.jpg"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Samsung UN65MU6300",
+      "titleDetail": "Samsung Electronics UN65MU6300 65-Inch 4K Ultra HD Smart LED TV",
+      "description": [
+        "4X more pixels than Full HD means you're getting 4X the resolution, so you'll clearly see the difference.",
+        "Stand Size (WxHxD): 37.9 x 8.7 x 14.5 inches",
+        "OneRemote automatically detects and controls all your connected devices and content with no manual programming required",
+        "Smooth action on fast-moving content with Motion Rate 120",
+        "Supported Internet Services Netflix, Hulu, Amazon Instant Video, Browser"
+      ],
+      "price": 1585,
+      "discountPercentage": 5,
+      "rating": 4.7,
+      "stock": 12,
+      "brand": "Samsung",
+      "category": "TV",
+      "thumbnail": "https://m.media-amazon.com/images/I/616+K6M825L._AC_UY327_QL65_.jpg",
+      "images": [
+        "https://m.media-amazon.com/images/I/616+K6M825L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/41fcmkyAH8L._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/61O-zVbQEyL._AC_SX466_.jpg",
+        "https://m.media-amazon.com/images/I/41ZTemqcTbL._AC_SX466_.jpg"
+      ]
+    }
+  ],
+  "total": 40,
+  "skip": 0,
+  "limit": 40
+}

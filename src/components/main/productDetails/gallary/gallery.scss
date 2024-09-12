@@ -1,0 +1,25 @@
+.gallery {
+  &__main {
+    margin: 10px 0;
+  }
+  
+  &__main-img {
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+  }
+
+  &__thumbs {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  &__thumbs-img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    padding: 5px;
+    border: 1px solid #ACACAC;
+    border-radius: 10px;
+  }
+}

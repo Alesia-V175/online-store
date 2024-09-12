@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "downlevelIteration": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": true,
+    "checkJs": false,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "removeComments": true,
+    "noImplicitAny": true,
+    "skipLibCheck": true,
+    "outDir": "./dist",
+    "baseUrl": ".",
+    "paths": {
+      "components/*": ["src/components/*"],
+      "database/*": ["src/database/*"],
+      "types/*": ["src/types/*"],
+      "constants/*": ["src/constants/*"],
+      "helpers/*": ["src/helpers/*"],
+    }
+  },
+  "include": ["src/**/*", "modules.d.ts"],
+  "exclude": ["node_modules"]
+}

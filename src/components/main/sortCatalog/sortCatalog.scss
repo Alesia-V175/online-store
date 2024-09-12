@@ -1,0 +1,21 @@
+.catalog__selectSort-wrap {
+  display: flex;
+  height: 35px;
+  border: 2px solid #CACDD8;
+  border-radius: 5px;
+}
+
+.catalog__selectSort {
+  width: 100px;
+  border: none;
+  cursor: pointer;
+}
+
+.label-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  text-align: center;
+  padding: 10px;
+}

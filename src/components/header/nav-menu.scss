@@ -1,0 +1,33 @@
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: auto;
+
+  &__list {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    height: auto;
+  }
+
+  &__item {
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__item-link {
+    flex: 1;
+    text-decoration: none;
+    padding: 10px;
+    color: $text-color;
+    text-align: center;
+    transition: 0.3s;
+
+    &:hover {
+      text-decoration: underline $main-color 2px;
+    }
+  }
+}

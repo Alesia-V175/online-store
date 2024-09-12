@@ -1,0 +1,67 @@
+.contacts {
+  background-color: $bg-color-black;
+  color: $color-white;
+  font-size: 12px;
+  line-height: 18px;
+
+  &__wrap {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__text {
+    color: $text-color-light;
+  }
+
+  &__link {
+    color: $color-white;
+    padding-left: 5px;
+    transition: 0.3s;
+    text-decoration: none;
+    padding-right: 3px;
+    transition: 0.3s;
+
+    &:hover {
+      opacity: 0.6;
+    }
+
+    &::before {
+      content: "Call Us:";
+      padding-right: 5px;
+    }
+  }
+
+  &__communication {
+    display: flex;
+    align-items: center;
+    box-sizing: content-box;
+    width: content-box;
+  }
+
+  &__messenger-link {
+    padding-left: 13px;
+  }
+
+  &__messenger-icon {
+    display: block;
+    transition: 0.3s;
+
+    &:hover {
+      transform: scale(1.15);
+      opacity: 0.6;
+    }
+  }
+}
+
+@media (max-width: 950px) {
+  .contacts__wrap {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contacts__text,
+  .contacts__communication {
+    margin: 0;
+    padding: 2px;
+  }
+}

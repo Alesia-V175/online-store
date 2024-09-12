@@ -1,0 +1,11 @@
+@import 'styles/normalize';
+@import 'styles/font';
+@import 'styles/variables';
+@import 'styles/main';
+@import 'styles/lib';
+
+// components
+@import 'components/header/header.scss';
+@import 'components/header/contacts.scss';
+@import 'components/header/nav-menu.scss';
+@import 'components/footer/footer.scss';

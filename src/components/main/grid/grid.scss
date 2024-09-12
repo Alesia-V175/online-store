@@ -1,0 +1,24 @@
+.catalog__view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 26px;
+  height: 30px;
+  padding: 10px;
+  cursor: pointer;
+  opacity: 0.3;
+
+  &_table {
+    background: url("../../../assets/icons/table-icon.svg") no-repeat;
+    background-position: center;
+  }
+
+  &_list {
+    background: url("../../../assets/icons/list-icon.svg") no-repeat;
+    background-position: center;
+  }
+
+  &_active {
+    opacity: 1;
+  }
+}
